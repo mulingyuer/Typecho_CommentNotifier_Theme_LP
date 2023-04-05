@@ -1,0 +1,2 @@
+# Typecho_CommentNotifier_Theme_LP
+ CommentNotifier的一个邮件回复提醒主题
